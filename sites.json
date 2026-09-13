@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1789343835535,
+  "updatedAt": 1789343864097,
   "sites": [
     {
       "id": "einthusan",
@@ -33,7 +33,7 @@
     {
       "id": "google",
       "name": "google",
-      "url": "https:\/\/google.com",
+      "url": "https:\/\/aniwaves.ru",
       "description": "",
       "enabled": true
     }
