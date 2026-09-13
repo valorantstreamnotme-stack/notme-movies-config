@@ -1,19 +1,19 @@
 {
   "schema": 1,
-  "updatedAt": 1789343786319,
+  "updatedAt": 1789343835535,
   "sites": [
-    {
-      "id": "cinehd",
-      "name": "cinehd",
-      "url": "https:\/\/cinehd.vc\/home\/",
-      "description": "watch movies, tv shows and stuff from anywhere.",
-      "enabled": true
-    },
     {
       "id": "einthusan",
       "name": "Einthusan",
       "url": "https:\/\/einthusan.tv\/",
       "description": "Indian movie streaming site.",
+      "enabled": true
+    },
+    {
+      "id": "cinehd",
+      "name": "cinehd",
+      "url": "https:\/\/cinehd.vc\/home\/",
+      "description": "watch movies, tv shows and stuff from anywhere.",
       "enabled": true
     },
     {
@@ -28,6 +28,13 @@
       "name": "OGO movies",
       "url": "https:\/\/ogomovies1.com.pk\/",
       "description": "watch movies, tv shows and this site have lower quality often do have theater print copies but still a hidden gem.",
+      "enabled": true
+    },
+    {
+      "id": "google",
+      "name": "google",
+      "url": "https:\/\/google.com",
+      "description": "",
       "enabled": true
     }
   ]
