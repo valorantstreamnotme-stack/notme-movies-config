@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1789342888788,
+  "updatedAt": 1789342938715,
   "sites": [
     {
       "id": "einthusan",
@@ -28,13 +28,6 @@
       "name": "cinehd",
       "url": "https:\/\/cinehd.vc\/home\/",
       "description": "watch movies, tv shows and stuff from anywhere.",
-      "enabled": true
-    },
-    {
-      "id": "np",
-      "name": "google.com",
-      "url": "https:\/\/www.aniwaves.ru",
-      "description": "test",
       "enabled": true
     }
   ]
