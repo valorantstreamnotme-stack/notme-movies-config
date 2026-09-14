@@ -1,21 +1,21 @@
 {
   "schema": 4,
-  "updatedAt": 1789348330201,
+  "updatedAt": 1789348332246,
   "sites": [
-    {
-      "id": "F Movies",
-      "name": "F movies",
-      "url": "https:\/\/fmoviess.org\/home\/",
-      "description": "Another site for movies, tv shows",
-      "enabled": true,
-      "cookies": [],
-      "playerCompatibility": false
-    },
     {
       "id": "cinehd",
       "name": "cinehd",
       "url": "https:\/\/cinehd.vc\/home\/",
       "description": "watch movies, tv shows and stuff from anywhere.",
+      "enabled": true,
+      "cookies": [],
+      "playerCompatibility": false
+    },
+    {
+      "id": "F Movies",
+      "name": "F movies",
+      "url": "https:\/\/fmoviess.org\/home\/",
+      "description": "Another site for movies, tv shows",
       "enabled": true,
       "cookies": [],
       "playerCompatibility": false
