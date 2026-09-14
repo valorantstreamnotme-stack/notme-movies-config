@@ -1,6 +1,6 @@
 {
   "schema": 10,
-  "updatedAt": 1789411398464,
+  "updatedAt": 1789412890391,
   "sites": [
     {
       "id": "cinehd",
@@ -14,7 +14,11 @@
       "deepPlayerCompatibility": false,
       "enhancedBlocking": false,
       "regularBlockingWithEnhanced": false,
-      "chromeUa": false
+      "chromeUa": false,
+      "announcement": "",
+      "showGeneralAnnouncement": false,
+      "fallbackUrl": "",
+      "forceFallback": false
     },
     {
       "id": "einthusan",
@@ -28,7 +32,11 @@
       "deepPlayerCompatibility": false,
       "enhancedBlocking": false,
       "regularBlockingWithEnhanced": false,
-      "chromeUa": false
+      "chromeUa": false,
+      "announcement": "",
+      "showGeneralAnnouncement": true,
+      "fallbackUrl": "",
+      "forceFallback": false
     },
     {
       "id": "F Movies",
@@ -42,7 +50,11 @@
       "deepPlayerCompatibility": false,
       "enhancedBlocking": false,
       "regularBlockingWithEnhanced": false,
-      "chromeUa": false
+      "chromeUa": false,
+      "announcement": "",
+      "showGeneralAnnouncement": true,
+      "fallbackUrl": "",
+      "forceFallback": false
     },
     {
       "id": "OGO Movies",
@@ -56,7 +68,11 @@
       "deepPlayerCompatibility": false,
       "enhancedBlocking": false,
       "regularBlockingWithEnhanced": false,
-      "chromeUa": false
+      "chromeUa": false,
+      "announcement": "",
+      "showGeneralAnnouncement": true,
+      "fallbackUrl": "",
+      "forceFallback": false
     },
     {
       "id": "kdrama",
@@ -70,7 +86,11 @@
       "deepPlayerCompatibility": true,
       "enhancedBlocking": true,
       "regularBlockingWithEnhanced": false,
-      "chromeUa": true
+      "chromeUa": true,
+      "announcement": "",
+      "showGeneralAnnouncement": true,
+      "fallbackUrl": "",
+      "forceFallback": false
     },
     {
       "id": "aniwave",
@@ -84,7 +104,11 @@
       "deepPlayerCompatibility": false,
       "enhancedBlocking": true,
       "regularBlockingWithEnhanced": false,
-      "chromeUa": false
+      "chromeUa": false,
+      "announcement": "",
+      "showGeneralAnnouncement": true,
+      "fallbackUrl": "",
+      "forceFallback": false
     }
   ],
   "scripts": [],
