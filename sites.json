@@ -1,6 +1,6 @@
 {
   "schema": 6,
-  "updatedAt": 1789355914717,
+  "updatedAt": 1789355929091,
   "sites": [
     {
       "id": "cinehd",
@@ -47,17 +47,6 @@
       "chromeUa": false
     },
     {
-      "id": "aniwave",
-      "name": "Aniwave",
-      "url": "https:\/\/aniwaves.ru\/home",
-      "description": "Watch your Fav animes ad free",
-      "enabled": true,
-      "cookies": [],
-      "playerCompatibility": false,
-      "enhancedBlocking": true,
-      "chromeUa": false
-    },
-    {
       "id": "drama-cool",
       "name": "Drama Cool",
       "url": "https:\/\/dramacool9.com.ro\/",
@@ -66,6 +55,17 @@
       "cookies": [],
       "playerCompatibility": true,
       "enhancedBlocking": false,
+      "chromeUa": false
+    },
+    {
+      "id": "aniwave",
+      "name": "Aniwave",
+      "url": "https:\/\/aniwaves.ru\/home",
+      "description": "Watch your Fav animes ad free",
+      "enabled": true,
+      "cookies": [],
+      "playerCompatibility": false,
+      "enhancedBlocking": true,
       "chromeUa": false
     }
   ],
