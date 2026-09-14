@@ -1,6 +1,6 @@
 {
   "schema": 12,
-  "updatedAt": 1789420497310,
+  "updatedAt": 1789420650606,
   "sites": [
     {
       "id": "cinehd",
@@ -132,7 +132,7 @@
       "allSites": true,
       "siteIds": [],
       "proxyServers": [
-        "66.135.27.9443"
+        "http:\/\/66.135.27.9:443"
       ]
     }
   ],
