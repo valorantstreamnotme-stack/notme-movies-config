@@ -1,6 +1,6 @@
 {
   "schema": 9,
-  "updatedAt": 1789404076413,
+  "updatedAt": 1789407244880,
   "sites": [
     {
       "id": "cinehd",
@@ -61,7 +61,7 @@
     {
       "id": "kdrama",
       "name": "Kdrama",
-      "url": "https:\/\/kisskh.do\/",
+      "url": "https:\/\/dramacool9.com.ro\/",
       "description": "Watch Kdramas and other collections over here",
       "enabled": true,
       "cookies": [],
