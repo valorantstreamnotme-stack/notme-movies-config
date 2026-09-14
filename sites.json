@@ -1,6 +1,6 @@
 {
   "schema": 5,
-  "updatedAt": 1789352251745,
+  "updatedAt": 1789352253074,
   "sites": [
     {
       "id": "cinehd",
@@ -50,7 +50,7 @@
       "enabled": true,
       "cookies": [],
       "playerCompatibility": true,
-      "geckoUbo": true
+      "geckoUbo": false
     },
     {
       "id": "aniwave",
