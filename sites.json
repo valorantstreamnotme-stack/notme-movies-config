@@ -1,6 +1,6 @@
 {
   "schema": 6,
-  "updatedAt": 1789362736737,
+  "updatedAt": 1789362769161,
   "sites": [
     {
       "id": "cinehd",
@@ -66,17 +66,6 @@
       "cookies": [],
       "playerCompatibility": false,
       "enhancedBlocking": true,
-      "chromeUa": false
-    },
-    {
-      "id": "bid",
-      "name": "bid",
-      "url": "https:\/\/vidbasic.top\/",
-      "description": "",
-      "enabled": true,
-      "cookies": [],
-      "playerCompatibility": false,
-      "enhancedBlocking": false,
       "chromeUa": false
     }
   ],
