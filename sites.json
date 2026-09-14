@@ -1,6 +1,6 @@
 {
   "schema": 10,
-  "updatedAt": 1789415026335,
+  "updatedAt": 1789415867574,
   "sites": [
     {
       "id": "cinehd",
@@ -17,6 +17,7 @@
       "chromeUa": false,
       "announcement": "Cinehd might show server issue you can reload it couple of time it should work without any issues. Thank you for understanding!!!",
       "showGeneralAnnouncement": false,
+      "fallbackUrls": [],
       "fallbackUrl": "",
       "forceFallback": false
     },
@@ -35,6 +36,7 @@
       "chromeUa": false,
       "announcement": "",
       "showGeneralAnnouncement": false,
+      "fallbackUrls": [],
       "fallbackUrl": "",
       "forceFallback": false
     },
@@ -53,8 +55,14 @@
       "chromeUa": false,
       "announcement": "",
       "showGeneralAnnouncement": false,
-      "fallbackUrl": "https:\/\/www.f-movies.org\/home",
-      "forceFallback": true
+      "fallbackUrls": [
+        "https:\/\/www.f-movies.og\/home",
+        "https:\/\/www.f-movies.oug\/home",
+        "https:\/\/www.f-movies.oghh\/home",
+        "https:\/\/www.f-movies.org\/home"
+      ],
+      "fallbackUrl": "https:\/\/www.f-movies.og\/home",
+      "forceFallback": false
     },
     {
       "id": "OGO Movies",
@@ -71,6 +79,7 @@
       "chromeUa": false,
       "announcement": "",
       "showGeneralAnnouncement": false,
+      "fallbackUrls": [],
       "fallbackUrl": "",
       "forceFallback": false
     },
@@ -89,6 +98,7 @@
       "chromeUa": true,
       "announcement": "",
       "showGeneralAnnouncement": false,
+      "fallbackUrls": [],
       "fallbackUrl": "",
       "forceFallback": false
     },
@@ -107,6 +117,7 @@
       "chromeUa": false,
       "announcement": "",
       "showGeneralAnnouncement": false,
+      "fallbackUrls": [],
       "fallbackUrl": "",
       "forceFallback": false
     }
