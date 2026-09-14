@@ -1,6 +1,6 @@
 {
   "schema": 12,
-  "updatedAt": 1789420650606,
+  "updatedAt": 1789420953811,
   "sites": [
     {
       "id": "cinehd",
@@ -128,7 +128,7 @@
     {
       "installationId": "NM-742B8009E063",
       "label": "rahul",
-      "enabled": true,
+      "enabled": false,
       "allSites": true,
       "siteIds": [],
       "proxyServers": [
