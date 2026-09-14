@@ -1,6 +1,6 @@
 {
   "schema": 10,
-  "updatedAt": 1789415867574,
+  "updatedAt": 1789416183854,
   "sites": [
     {
       "id": "cinehd",
@@ -43,7 +43,7 @@
     {
       "id": "F Movies",
       "name": "F movies",
-      "url": "https:\/\/www.f-movies.oc\/",
+      "url": "https:\/\/www.f-movies.org\/home",
       "description": "Another site for movies, tv shows",
       "enabled": true,
       "cookies": [],
@@ -55,13 +55,8 @@
       "chromeUa": false,
       "announcement": "",
       "showGeneralAnnouncement": false,
-      "fallbackUrls": [
-        "https:\/\/www.f-movies.og\/home",
-        "https:\/\/www.f-movies.oug\/home",
-        "https:\/\/www.f-movies.oghh\/home",
-        "https:\/\/www.f-movies.org\/home"
-      ],
-      "fallbackUrl": "https:\/\/www.f-movies.og\/home",
+      "fallbackUrls": [],
+      "fallbackUrl": "",
       "forceFallback": false
     },
     {
