@@ -1,6 +1,6 @@
 {
   "schema": 3,
-  "updatedAt": 1789347563452,
+  "updatedAt": 1789347895832,
   "sites": [
     {
       "id": "cinehd",
@@ -51,14 +51,6 @@
       "cookies": []
     }
   ],
-  "scripts": [
-    {
-      "id": "drama-cool-drama-cool",
-      "name": "Drama cool",
-      "siteId": "drama-cool",
-      "code": "(() => {\r\n    const REQUIRED_SANDBOX = [\r\n        \"allow-scripts\",\r\n        \"allow-same-origin\",\r\n        \"allow-popups\",\r\n        \"allow-forms\",\r\n        \"allow-presentation\"\r\n    ];\r\n\r\n    const REQUIRED_ALLOW = [\r\n        \"autoplay\",\r\n        \"fullscreen\",\r\n        \"encrypted-media\",\r\n        \"picture-in-picture\"\r\n    ];\r\n\r\n    function patchIframe(frame) {\r\n        if (!(frame instanceof HTMLIFrameElement)) return;\r\n\r\n        let sandboxChanged = false;\r\n\r\n        if (frame.hasAttribute(\"sandbox\")) {\r\n            const tokens = new Set(\r\n                (frame.getAttribute(\"sandbox\") || \"\")\r\n                    .split(\/\\s+\/)\r\n                    .filter(Boolean)\r\n            );\r\n\r\n            for (const permission of REQUIRED_SANDBOX) {\r\n                if (!tokens.has(permission)) {\r\n                    tokens.add(permission);\r\n                    sandboxChanged = true;\r\n                }\r\n            }\r\n\r\n            if (sandboxChanged) {\r\n                frame.setAttribute(\r\n                    \"sandbox\",\r\n                    Array.from(tokens).join(\" \")\r\n                );\r\n            }\r\n        }\r\n\r\n        const currentAllow = (frame.getAttribute(\"allow\") || \"\")\r\n            .split(\";\")\r\n            .map(v => v.trim())\r\n            .filter(Boolean);\r\n\r\n        const allowNames = new Set(\r\n            currentAllow.map(v => v.split(\/\\s+\/)[0])\r\n        );\r\n\r\n        for (const permission of REQUIRED_ALLOW) {\r\n            if (!allowNames.has(permission)) {\r\n                currentAllow.push(permission);\r\n            }\r\n        }\r\n\r\n        frame.setAttribute(\"allow\", currentAllow.join(\"; \"));\r\n        frame.setAttribute(\"allowfullscreen\", \"true\");\r\n\r\n        \/*\r\n         * Sandbox permissions are applied when the iframe navigates.\r\n         * Reload the frame once after changing them.\r\n         *\/\r\n        if (\r\n            sandboxChanged &&\r\n            frame.src &&\r\n            frame.dataset.notmeSandboxReloaded !== \"1\"\r\n        ) {\r\n            frame.dataset.notmeSandboxReloaded = \"1\";\r\n\r\n            const src = frame.src;\r\n\r\n            setTimeout(() => {\r\n                if (!frame.isConnected) return;\r\n\r\n                try {\r\n                    frame.src = src;\r\n                } catch (_) {}\r\n            }, 50);\r\n        }\r\n    }\r\n\r\n    function scan(root = document) {\r\n        try {\r\n            root.querySelectorAll(\"iframe\").forEach(patchIframe);\r\n        } catch (_) {}\r\n    }\r\n\r\n    scan();\r\n\r\n    const observer = new MutationObserver(mutations => {\r\n        for (const mutation of mutations) {\r\n            if (\r\n                mutation.type === \"attributes\" &&\r\n                mutation.target instanceof HTMLIFrameElement\r\n            ) {\r\n                patchIframe(mutation.target);\r\n            }\r\n\r\n            for (const node of mutation.addedNodes) {\r\n                if (!(node instanceof Element)) continue;\r\n\r\n                if (node instanceof HTMLIFrameElement) {\r\n                    patchIframe(node);\r\n                }\r\n\r\n                scan(node);\r\n            }\r\n        }\r\n    });\r\n\r\n    observer.observe(\r\n        document.documentElement,\r\n        {\r\n            childList: true,\r\n            subtree: true,\r\n            attributes: true,\r\n            attributeFilter: [\"sandbox\", \"src\"]\r\n        }\r\n    );\r\n\r\n    window.__notmeVideoSandboxObserver = observer;\r\n})();",
-      "enabled": true
-    }
-  ],
+  "scripts": [],
   "filters": ""
 }
