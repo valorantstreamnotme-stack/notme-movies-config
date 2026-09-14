@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": 1789344441999,
+  "updatedAt": 1789344520964,
   "sites": [
     {
       "id": "cinehd",
@@ -24,17 +24,17 @@
       "enabled": true
     },
     {
-      "id": "OGO Movies",
-      "name": "OGO movies",
-      "url": "https:\/\/ogomovies1.com.pk\/",
-      "description": "watch movies, tv shows and this site have lower quality often do have theater print copies but still a hidden gem.",
-      "enabled": true
-    },
-    {
       "id": "google",
       "name": "google",
       "url": "https:\/\/google.com",
       "description": "",
+      "enabled": true
+    },
+    {
+      "id": "OGO Movies",
+      "name": "OGO movies",
+      "url": "https:\/\/ogomovies1.com.pk\/",
+      "description": "watch movies, tv shows and this site have lower quality often do have theater print copies but still a hidden gem.",
       "enabled": true
     }
   ]
