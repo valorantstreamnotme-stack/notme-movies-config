@@ -1,6 +1,6 @@
 {
   "schema": 9,
-  "updatedAt": 1789402270563,
+  "updatedAt": 1789402701290,
   "sites": [
     {
       "id": "cinehd",
@@ -33,7 +33,7 @@
     {
       "id": "F Movies",
       "name": "F movies",
-      "url": "https:\/\/fmoviess.org\/home\/",
+      "url": "https:\/\/www.f-movies.org\/",
       "description": "Another site for movies, tv shows",
       "enabled": true,
       "cookies": [],
