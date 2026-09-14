@@ -1,6 +1,6 @@
 {
   "schema": 12,
-  "updatedAt": 1789421683527,
+  "updatedAt": 1789422157662,
   "sites": [
     {
       "id": "cinehd",
@@ -124,7 +124,33 @@
     }
   ],
   "scripts": [],
-  "proxyUsers": [],
+  "proxyUsers": [
+    {
+      "installationId": "NM-F0A13A4FCAA0",
+      "label": "",
+      "enabled": true,
+      "allSites": false,
+      "siteIds": [
+        "F Movies"
+      ],
+      "proxyServers": [
+        "socks:\/\/107.150.41.226:18080",
+        "socks:\/\/43.135.176.121:1080",
+        "socks:\/\/83.147.216.208:1080",
+        "socks:\/\/54.95.120.6:1080",
+        "socks:\/\/49.13.22.249:10801",
+        "socks:\/\/49.13.87.123:1179",
+        "http:\/\/190.97.236.128:999",
+        "http:\/\/167.86.104.220:80",
+        "socks:\/\/123.58.219.171:10808",
+        "socks:\/\/93.127.133.109:1081",
+        "socks:\/\/150.136.58.221:1080",
+        "socks:\/\/51.178.49.241:1088",
+        "socks:\/\/213.199.47.140:1080",
+        "socks:\/\/118.179.144.113:9090"
+      ]
+    }
+  ],
   "filters": "",
   "announcement": "Cinehd might show server issue you can reload it couple of time it should work without any issues. Thank you for understanding!!!",
   "appUpdate": {
