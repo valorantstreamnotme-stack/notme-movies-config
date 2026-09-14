@@ -1,6 +1,6 @@
 {
   "schema": 4,
-  "updatedAt": 1789348332246,
+  "updatedAt": 1789348335305,
   "sites": [
     {
       "id": "cinehd",
@@ -12,19 +12,19 @@
       "playerCompatibility": false
     },
     {
-      "id": "F Movies",
-      "name": "F movies",
-      "url": "https:\/\/fmoviess.org\/home\/",
-      "description": "Another site for movies, tv shows",
+      "id": "einthusan",
+      "name": "Einthusan",
+      "url": "https:\/\/einthusan.tv\/",
+      "description": "Indian movie streaming site.",
       "enabled": true,
       "cookies": [],
       "playerCompatibility": false
     },
     {
-      "id": "einthusan",
-      "name": "Einthusan",
-      "url": "https:\/\/einthusan.tv\/",
-      "description": "Indian movie streaming site.",
+      "id": "F Movies",
+      "name": "F movies",
+      "url": "https:\/\/fmoviess.org\/home\/",
+      "description": "Another site for movies, tv shows",
       "enabled": true,
       "cookies": [],
       "playerCompatibility": false
