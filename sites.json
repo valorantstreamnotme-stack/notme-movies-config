@@ -1,6 +1,6 @@
 {
   "schema": 12,
-  "updatedAt": 1789421366187,
+  "updatedAt": 1789421632426,
   "sites": [
     {
       "id": "cinehd",
@@ -124,7 +124,20 @@
     }
   ],
   "scripts": [],
-  "proxyUsers": [],
+  "proxyUsers": [
+    {
+      "installationId": "NM-F0A13A4FCAA0",
+      "label": "rahul",
+      "enabled": true,
+      "allSites": false,
+      "siteIds": [
+        "F Movies"
+      ],
+      "proxyServers": [
+        "http:\/\/137.66.1.45:80"
+      ]
+    }
+  ],
   "filters": "",
   "announcement": "Cinehd might show server issue you can reload it couple of time it should work without any issues. Thank you for understanding!!!",
   "appUpdate": {
