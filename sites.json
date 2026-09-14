@@ -1,6 +1,6 @@
 {
-  "schema": 8,
-  "updatedAt": 1789370477034,
+  "schema": 9,
+  "updatedAt": 1789371669978,
   "sites": [
     {
       "id": "cinehd",
@@ -11,6 +11,7 @@
       "cookies": [],
       "playerCompatibility": false,
       "playerProbeCompatibility": false,
+      "deepPlayerCompatibility": false,
       "enhancedBlocking": false,
       "regularBlockingWithEnhanced": false,
       "chromeUa": false
@@ -24,6 +25,7 @@
       "cookies": [],
       "playerCompatibility": false,
       "playerProbeCompatibility": false,
+      "deepPlayerCompatibility": false,
       "enhancedBlocking": false,
       "regularBlockingWithEnhanced": false,
       "chromeUa": false
@@ -37,6 +39,7 @@
       "cookies": [],
       "playerCompatibility": false,
       "playerProbeCompatibility": false,
+      "deepPlayerCompatibility": false,
       "enhancedBlocking": false,
       "regularBlockingWithEnhanced": false,
       "chromeUa": false
@@ -50,6 +53,7 @@
       "cookies": [],
       "playerCompatibility": false,
       "playerProbeCompatibility": false,
+      "deepPlayerCompatibility": false,
       "enhancedBlocking": false,
       "regularBlockingWithEnhanced": false,
       "chromeUa": false
@@ -63,6 +67,7 @@
       "cookies": [],
       "playerCompatibility": true,
       "playerProbeCompatibility": true,
+      "deepPlayerCompatibility": true,
       "enhancedBlocking": true,
       "regularBlockingWithEnhanced": false,
       "chromeUa": true
@@ -76,6 +81,7 @@
       "cookies": [],
       "playerCompatibility": false,
       "playerProbeCompatibility": false,
+      "deepPlayerCompatibility": false,
       "enhancedBlocking": true,
       "regularBlockingWithEnhanced": false,
       "chromeUa": false
