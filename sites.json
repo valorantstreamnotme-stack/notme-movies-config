@@ -1,6 +1,6 @@
 {
   "schema": 3,
-  "updatedAt": 1789346933807,
+  "updatedAt": 1789346938166,
   "sites": [
     {
       "id": "cinehd",
@@ -35,18 +35,18 @@
       "cookies": []
     },
     {
-      "id": "aniwave",
-      "name": "Aniwave",
-      "url": "https:\/\/aniwaves.ru\/home",
-      "description": "Watch your Fav animes ad free",
-      "enabled": true,
-      "cookies": []
-    },
-    {
       "id": "drama-cool",
       "name": "Drama Cool",
       "url": "https:\/\/dramacool9.com.ro\/",
       "description": "Watch Kdramas and other collections over here",
+      "enabled": true,
+      "cookies": []
+    },
+    {
+      "id": "aniwave",
+      "name": "Aniwave",
+      "url": "https:\/\/aniwaves.ru\/home",
+      "description": "Watch your Fav animes ad free",
       "enabled": true,
       "cookies": []
     }
