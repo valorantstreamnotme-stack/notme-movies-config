@@ -1,6 +1,6 @@
 {
-  "schema": 5,
-  "updatedAt": 1789353145458,
+  "schema": 6,
+  "updatedAt": 1789355667468,
   "sites": [
     {
       "id": "cinehd",
@@ -10,7 +10,8 @@
       "enabled": true,
       "cookies": [],
       "playerCompatibility": false,
-      "geckoUbo": false
+      "enhancedBlocking": false,
+      "chromeUa": false
     },
     {
       "id": "einthusan",
@@ -20,7 +21,8 @@
       "enabled": true,
       "cookies": [],
       "playerCompatibility": false,
-      "geckoUbo": false
+      "enhancedBlocking": false,
+      "chromeUa": false
     },
     {
       "id": "F Movies",
@@ -30,7 +32,8 @@
       "enabled": true,
       "cookies": [],
       "playerCompatibility": false,
-      "geckoUbo": false
+      "enhancedBlocking": false,
+      "chromeUa": false
     },
     {
       "id": "OGO Movies",
@@ -40,7 +43,8 @@
       "enabled": true,
       "cookies": [],
       "playerCompatibility": false,
-      "geckoUbo": false
+      "enhancedBlocking": false,
+      "chromeUa": false
     },
     {
       "id": "drama-cool",
@@ -50,7 +54,8 @@
       "enabled": true,
       "cookies": [],
       "playerCompatibility": true,
-      "geckoUbo": true
+      "enhancedBlocking": true,
+      "chromeUa": false
     },
     {
       "id": "aniwave",
@@ -60,7 +65,8 @@
       "enabled": true,
       "cookies": [],
       "playerCompatibility": false,
-      "geckoUbo": true
+      "enhancedBlocking": false,
+      "chromeUa": false
     }
   ],
   "scripts": [],
