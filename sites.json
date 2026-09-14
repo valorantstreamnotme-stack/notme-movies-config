@@ -1,6 +1,6 @@
 {
   "schema": 10,
-  "updatedAt": 1789414571212,
+  "updatedAt": 1789415026335,
   "sites": [
     {
       "id": "cinehd",
@@ -54,7 +54,7 @@
       "announcement": "",
       "showGeneralAnnouncement": false,
       "fallbackUrl": "https:\/\/www.f-movies.org\/home",
-      "forceFallback": false
+      "forceFallback": true
     },
     {
       "id": "OGO Movies",
