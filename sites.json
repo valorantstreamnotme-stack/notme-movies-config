@@ -1,6 +1,6 @@
 {
-  "schema": 3,
-  "updatedAt": 1789347895832,
+  "schema": 4,
+  "updatedAt": 1789348319567,
   "sites": [
     {
       "id": "cinehd",
@@ -8,15 +8,8 @@
       "url": "https:\/\/cinehd.vc\/home\/",
       "description": "watch movies, tv shows and stuff from anywhere.",
       "enabled": true,
-      "cookies": []
-    },
-    {
-      "id": "einthusan",
-      "name": "Einthusan",
-      "url": "https:\/\/einthusan.tv\/",
-      "description": "Indian movie streaming site.",
-      "enabled": true,
-      "cookies": []
+      "cookies": [],
+      "playerCompatibility": false
     },
     {
       "id": "F Movies",
@@ -24,7 +17,17 @@
       "url": "https:\/\/fmoviess.org\/home\/",
       "description": "Another site for movies, tv shows",
       "enabled": true,
-      "cookies": []
+      "cookies": [],
+      "playerCompatibility": false
+    },
+    {
+      "id": "einthusan",
+      "name": "Einthusan",
+      "url": "https:\/\/einthusan.tv\/",
+      "description": "Indian movie streaming site.",
+      "enabled": true,
+      "cookies": [],
+      "playerCompatibility": false
     },
     {
       "id": "OGO Movies",
@@ -32,7 +35,8 @@
       "url": "https:\/\/ogomovies1.com.pk\/",
       "description": "watch movies, tv shows and this site have lower quality often do have theater print copies but still a hidden gem.",
       "enabled": true,
-      "cookies": []
+      "cookies": [],
+      "playerCompatibility": false
     },
     {
       "id": "drama-cool",
@@ -40,7 +44,8 @@
       "url": "https:\/\/dramacool9.com.ro\/",
       "description": "Watch Kdramas and other collections over here",
       "enabled": true,
-      "cookies": []
+      "cookies": [],
+      "playerCompatibility": false
     },
     {
       "id": "aniwave",
@@ -48,7 +53,8 @@
       "url": "https:\/\/aniwaves.ru\/home",
       "description": "Watch your Fav animes ad free",
       "enabled": true,
-      "cookies": []
+      "cookies": [],
+      "playerCompatibility": false
     }
   ],
   "scripts": [],
