@@ -1,6 +1,6 @@
 {
   "schema": 12,
-  "updatedAt": 1789427953852,
+  "updatedAt": 1789428012180,
   "sites": [
     {
       "id": "cinehd",
@@ -124,7 +124,38 @@
     }
   ],
   "scripts": [],
-  "proxyUsers": [],
+  "proxyUsers": [
+    {
+      "installationId": "NM-C252499B6D1F",
+      "label": "",
+      "enabled": true,
+      "allSites": false,
+      "siteIds": [
+        "F Movies"
+      ],
+      "proxyServers": [
+        "http:\/\/131.163.89.148:3128",
+        "http:\/\/73.162.86.230:8181",
+        "http:\/\/1.231.81.166:3128",
+        "socks:\/\/43.135.176.121:1080",
+        "socks:\/\/101.36.104.239:10808",
+        "http:\/\/27.185.218.213:17981",
+        "socks:\/\/45.74.31.42:11677",
+        "http:\/\/159.195.22.57:80",
+        "http:\/\/38.51.207.104:8080",
+        "socks:\/\/45.74.31.30:6699",
+        "http:\/\/37.59.125.131:8888",
+        "socks:\/\/45.74.31.40:4431",
+        "socks:\/\/45.74.31.25:5001",
+        "socks:\/\/45.74.31.42:14364",
+        "http:\/\/107.167.18.122:443",
+        "socks:\/\/45.74.31.41:25418",
+        "socks:\/\/45.74.31.42:29078",
+        "socks:\/\/45.74.31.30:7142",
+        "socks:\/\/45.74.31.42:10905"
+      ]
+    }
+  ],
   "filters": "",
   "announcement": "Cinehd might show server issue you can reload it couple of time it should work without any issues. Thank you for understanding!!!",
   "appUpdate": {
