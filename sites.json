@@ -1,6 +1,6 @@
 {
   "schema": 10,
-  "updatedAt": 1789412890391,
+  "updatedAt": 1789412899515,
   "sites": [
     {
       "id": "cinehd",
@@ -34,7 +34,7 @@
       "regularBlockingWithEnhanced": false,
       "chromeUa": false,
       "announcement": "",
-      "showGeneralAnnouncement": true,
+      "showGeneralAnnouncement": false,
       "fallbackUrl": "",
       "forceFallback": false
     },
