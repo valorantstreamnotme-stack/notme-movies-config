@@ -1,6 +1,6 @@
 {
   "schema": 6,
-  "updatedAt": 1789355887239,
+  "updatedAt": 1789355914717,
   "sites": [
     {
       "id": "cinehd",
@@ -47,17 +47,6 @@
       "chromeUa": false
     },
     {
-      "id": "drama-cool",
-      "name": "Drama Cool",
-      "url": "https:\/\/dramacool9.com.ro\/",
-      "description": "Watch Kdramas and other collections over here",
-      "enabled": true,
-      "cookies": [],
-      "playerCompatibility": true,
-      "enhancedBlocking": false,
-      "chromeUa": false
-    },
-    {
       "id": "aniwave",
       "name": "Aniwave",
       "url": "https:\/\/aniwaves.ru\/home",
@@ -66,6 +55,17 @@
       "cookies": [],
       "playerCompatibility": false,
       "enhancedBlocking": true,
+      "chromeUa": false
+    },
+    {
+      "id": "drama-cool",
+      "name": "Drama Cool",
+      "url": "https:\/\/dramacool9.com.ro\/",
+      "description": "Watch Kdramas and other collections over here",
+      "enabled": true,
+      "cookies": [],
+      "playerCompatibility": true,
+      "enhancedBlocking": false,
       "chromeUa": false
     }
   ],
