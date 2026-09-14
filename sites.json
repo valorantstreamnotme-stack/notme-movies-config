@@ -1,6 +1,6 @@
 {
   "schema": 3,
-  "updatedAt": 1789346140782,
+  "updatedAt": 1789346785334,
   "sites": [
     {
       "id": "cinehd",
@@ -35,10 +35,10 @@
       "cookies": []
     },
     {
-      "id": "google",
-      "name": "google",
-      "url": "https:\/\/aniwaves.ru",
-      "description": "",
+      "id": "aniwave",
+      "name": "Aniwave",
+      "url": "https:\/\/aniwaves.ru\/home",
+      "description": "Watch your Fav animes ad free",
       "enabled": true,
       "cookies": []
     }
