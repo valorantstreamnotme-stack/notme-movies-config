@@ -1,6 +1,6 @@
 {
   "schema": 9,
-  "updatedAt": 1789371669978,
+  "updatedAt": 1789374258909,
   "sites": [
     {
       "id": "cinehd",
@@ -59,18 +59,18 @@
       "chromeUa": false
     },
     {
-      "id": "drama-cool",
-      "name": "Drama Cool",
-      "url": "https:\/\/dramacool9.com.ro\/",
+      "id": "kdrama",
+      "name": "Kdrama",
+      "url": "https:\/\/kisskh.do\/",
       "description": "Watch Kdramas and other collections over here",
       "enabled": true,
       "cookies": [],
-      "playerCompatibility": true,
-      "playerProbeCompatibility": true,
-      "deepPlayerCompatibility": true,
-      "enhancedBlocking": true,
+      "playerCompatibility": false,
+      "playerProbeCompatibility": false,
+      "deepPlayerCompatibility": false,
+      "enhancedBlocking": false,
       "regularBlockingWithEnhanced": false,
-      "chromeUa": true
+      "chromeUa": false
     },
     {
       "id": "aniwave",
