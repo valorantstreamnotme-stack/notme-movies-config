@@ -1,6 +1,6 @@
 {
-  "schema": 4,
-  "updatedAt": 1789350881202,
+  "schema": 5,
+  "updatedAt": 1789352208174,
   "sites": [
     {
       "id": "cinehd",
@@ -9,7 +9,8 @@
       "description": "watch movies, tv shows and stuff from anywhere.",
       "enabled": true,
       "cookies": [],
-      "playerCompatibility": false
+      "playerCompatibility": false,
+      "geckoUbo": false
     },
     {
       "id": "einthusan",
@@ -18,7 +19,8 @@
       "description": "Indian movie streaming site.",
       "enabled": true,
       "cookies": [],
-      "playerCompatibility": false
+      "playerCompatibility": false,
+      "geckoUbo": false
     },
     {
       "id": "F Movies",
@@ -27,7 +29,8 @@
       "description": "Another site for movies, tv shows",
       "enabled": true,
       "cookies": [],
-      "playerCompatibility": false
+      "playerCompatibility": false,
+      "geckoUbo": false
     },
     {
       "id": "OGO Movies",
@@ -36,7 +39,8 @@
       "description": "watch movies, tv shows and this site have lower quality often do have theater print copies but still a hidden gem.",
       "enabled": true,
       "cookies": [],
-      "playerCompatibility": false
+      "playerCompatibility": false,
+      "geckoUbo": false
     },
     {
       "id": "drama-cool",
@@ -45,7 +49,8 @@
       "description": "Watch Kdramas and other collections over here",
       "enabled": true,
       "cookies": [],
-      "playerCompatibility": true
+      "playerCompatibility": true,
+      "geckoUbo": false
     },
     {
       "id": "aniwave",
@@ -54,7 +59,8 @@
       "description": "Watch your Fav animes ad free",
       "enabled": true,
       "cookies": [],
-      "playerCompatibility": false
+      "playerCompatibility": false,
+      "geckoUbo": true
     }
   ],
   "scripts": [],
