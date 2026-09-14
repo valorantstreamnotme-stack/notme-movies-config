@@ -1,6 +1,6 @@
 {
   "schema": 5,
-  "updatedAt": 1789352253074,
+  "updatedAt": 1789353042876,
   "sites": [
     {
       "id": "cinehd",
@@ -60,7 +60,7 @@
       "enabled": true,
       "cookies": [],
       "playerCompatibility": false,
-      "geckoUbo": false
+      "geckoUbo": true
     }
   ],
   "scripts": [],
