@@ -1,6 +1,6 @@
 {
   "schema": 3,
-  "updatedAt": 1789346056053,
+  "updatedAt": 1789346126439,
   "sites": [
     {
       "id": "cinehd",
@@ -21,7 +21,7 @@
     {
       "id": "google",
       "name": "google",
-      "url": "https:\/\/google.com",
+      "url": "https:\/\/aniwaves.ru",
       "description": "",
       "enabled": true,
       "cookies": []
