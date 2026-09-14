@@ -1,6 +1,6 @@
 {
-  "schema": 10,
-  "updatedAt": 1789416183854,
+  "schema": 11,
+  "updatedAt": 1789417163720,
   "sites": [
     {
       "id": "cinehd",
@@ -19,7 +19,8 @@
       "showGeneralAnnouncement": false,
       "fallbackUrls": [],
       "fallbackUrl": "",
-      "forceFallback": false
+      "forceFallback": false,
+      "timeoutSeconds": 15
     },
     {
       "id": "einthusan",
@@ -38,12 +39,13 @@
       "showGeneralAnnouncement": false,
       "fallbackUrls": [],
       "fallbackUrl": "",
-      "forceFallback": false
+      "forceFallback": false,
+      "timeoutSeconds": 15
     },
     {
       "id": "F Movies",
       "name": "F movies",
-      "url": "https:\/\/www.f-movies.org\/home",
+      "url": "https:\/\/www.f-movies.og\/home",
       "description": "Another site for movies, tv shows",
       "enabled": true,
       "cookies": [],
@@ -55,9 +57,13 @@
       "chromeUa": false,
       "announcement": "",
       "showGeneralAnnouncement": false,
-      "fallbackUrls": [],
-      "fallbackUrl": "",
-      "forceFallback": false
+      "fallbackUrls": [
+        "https:\/\/www.f-movies.ojg\/home",
+        "https:\/\/www.f-movies.org\/home"
+      ],
+      "fallbackUrl": "https:\/\/www.f-movies.ojg\/home",
+      "forceFallback": false,
+      "timeoutSeconds": 15
     },
     {
       "id": "OGO Movies",
@@ -76,7 +82,8 @@
       "showGeneralAnnouncement": false,
       "fallbackUrls": [],
       "fallbackUrl": "",
-      "forceFallback": false
+      "forceFallback": false,
+      "timeoutSeconds": 15
     },
     {
       "id": "kdrama",
@@ -95,7 +102,8 @@
       "showGeneralAnnouncement": false,
       "fallbackUrls": [],
       "fallbackUrl": "",
-      "forceFallback": false
+      "forceFallback": false,
+      "timeoutSeconds": 15
     },
     {
       "id": "aniwave",
@@ -114,10 +122,18 @@
       "showGeneralAnnouncement": false,
       "fallbackUrls": [],
       "fallbackUrl": "",
-      "forceFallback": false
+      "forceFallback": false,
+      "timeoutSeconds": 15
     }
   ],
   "scripts": [],
   "filters": "",
-  "announcement": "Cinehd might show server issue you can reload it couple of time it should work without any issues. Thank you for understanding!!!"
+  "announcement": "Cinehd might show server issue you can reload it couple of time it should work without any issues. Thank you for understanding!!!",
+  "appUpdate": {
+    "latestVersionCode": 0,
+    "latestVersionName": "",
+    "minimumVersionCode": 0,
+    "updateUrl": "",
+    "changelog": ""
+  }
 }
