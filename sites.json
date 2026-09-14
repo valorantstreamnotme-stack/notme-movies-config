@@ -1,6 +1,6 @@
 {
   "schema": 4,
-  "updatedAt": 1789348335305,
+  "updatedAt": 1789349093686,
   "sites": [
     {
       "id": "cinehd",
@@ -45,7 +45,7 @@
       "description": "Watch Kdramas and other collections over here",
       "enabled": true,
       "cookies": [],
-      "playerCompatibility": false
+      "playerCompatibility": true
     },
     {
       "id": "aniwave",
