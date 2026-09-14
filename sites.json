@@ -1,6 +1,6 @@
 {
   "schema": 10,
-  "updatedAt": 1789412899515,
+  "updatedAt": 1789412926473,
   "sites": [
     {
       "id": "cinehd",
@@ -15,7 +15,7 @@
       "enhancedBlocking": false,
       "regularBlockingWithEnhanced": false,
       "chromeUa": false,
-      "announcement": "",
+      "announcement": "Cinehd might show server issue you can reload it couple of time it should work without any issues. Thank you for understanding!!!",
       "showGeneralAnnouncement": false,
       "fallbackUrl": "",
       "forceFallback": false
