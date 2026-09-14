@@ -1,6 +1,6 @@
 {
   "schema": 3,
-  "updatedAt": 1789346851898,
+  "updatedAt": 1789346933807,
   "sites": [
     {
       "id": "cinehd",
@@ -39,6 +39,14 @@
       "name": "Aniwave",
       "url": "https:\/\/aniwaves.ru\/home",
       "description": "Watch your Fav animes ad free",
+      "enabled": true,
+      "cookies": []
+    },
+    {
+      "id": "drama-cool",
+      "name": "Drama Cool",
+      "url": "https:\/\/dramacool9.com.ro\/",
+      "description": "Watch Kdramas and other collections over here",
       "enabled": true,
       "cookies": []
     }
