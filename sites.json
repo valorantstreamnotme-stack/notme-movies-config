@@ -1,6 +1,6 @@
 {
-  "schema": 9,
-  "updatedAt": 1789407280067,
+  "schema": 10,
+  "updatedAt": 1789410856290,
   "sites": [
     {
       "id": "cinehd",
@@ -88,5 +88,6 @@
     }
   ],
   "scripts": [],
-  "filters": ""
+  "filters": "",
+  "announcement": "Cinehd might show server issue you can reload it couple of time it should work without any issues. Thank you for understanding!!!"
 }
