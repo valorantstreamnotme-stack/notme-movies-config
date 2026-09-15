@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789437805069,
+  "updatedAt": 1789437812266,
   "sites": [
     {
       "id": "cinehd",
@@ -103,26 +103,6 @@
       "timeoutSeconds": 15
     },
     {
-      "id": "aniwave",
-      "name": "Aniwave",
-      "url": "https:\/\/aniwaves.ru\/home",
-      "description": "Watch your Fav animes ad free",
-      "enabled": true,
-      "cookies": [],
-      "playerCompatibility": false,
-      "playerProbeCompatibility": false,
-      "deepPlayerCompatibility": false,
-      "enhancedBlocking": true,
-      "regularBlockingWithEnhanced": false,
-      "chromeUa": false,
-      "announcement": "",
-      "showGeneralAnnouncement": false,
-      "fallbackUrls": [],
-      "fallbackUrl": "",
-      "forceFallback": false,
-      "timeoutSeconds": 15
-    },
-    {
       "id": "kdrama-kisskh",
       "name": "Kdrama kisskh",
       "url": "https:\/\/kisskh.do\/",
@@ -137,6 +117,26 @@
       "chromeUa": false,
       "announcement": "",
       "showGeneralAnnouncement": true,
+      "fallbackUrls": [],
+      "fallbackUrl": "",
+      "forceFallback": false,
+      "timeoutSeconds": 15
+    },
+    {
+      "id": "aniwave",
+      "name": "Aniwave",
+      "url": "https:\/\/aniwaves.ru\/home",
+      "description": "Watch your Fav animes ad free",
+      "enabled": true,
+      "cookies": [],
+      "playerCompatibility": false,
+      "playerProbeCompatibility": false,
+      "deepPlayerCompatibility": false,
+      "enhancedBlocking": true,
+      "regularBlockingWithEnhanced": false,
+      "chromeUa": false,
+      "announcement": "",
+      "showGeneralAnnouncement": false,
       "fallbackUrls": [],
       "fallbackUrl": "",
       "forceFallback": false,
