@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789462759882,
+  "updatedAt": 1789462824086,
   "sites": [
     {
       "id": "cinehd",
@@ -145,9 +145,9 @@
       "timeoutSeconds": 15
     },
     {
-      "id": "https:\/\/open.spotify.com\/",
+      "id": "spotify",
       "name": "spotify",
-      "url": "https:\/\/www.google.com",
+      "url": "https:\/\/open.spotify.com\/",
       "description": "",
       "enabled": true,
       "cookies": [],
