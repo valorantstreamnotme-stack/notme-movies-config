@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789497767103,
+  "updatedAt": 1789497797758,
   "sites": [
     {
       "id": "cinehd",
@@ -239,7 +239,7 @@
       "featureOverrides": {}
     }
   ],
-  "filters": "block dandagondola.com\/*\nblock subduepaler.cyou\/*\nblock savedly.net\/*\nblock croshi.cyou\/*\nblock nickiepithier.qpon\/*\nblock dearthsongman.shop\/*\nallow spotify.com\/*",
+  "filters": "block dandagondola.com\/*\nblock subduepaler.cyou\/*\nblock savedly.net\/*\nblock croshi.cyou\/*\nblock nickiepithier.qpon\/*\nblock dearthsongman.shop\/*",
   "announcement": "Cinehd might show server issue you can reload it couple of time it should work without any issues. Thank you for understanding!!!. If a website isnt working for you click on settings, click about and click on copy id and send it to notme 😁 I'll unblock it for you.",
   "appUpdate": {
     "latestVersionCode": 43,
