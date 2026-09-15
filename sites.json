@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789443296927,
+  "updatedAt": 1789444066704,
   "sites": [
     {
       "id": "cinehd",
@@ -37,8 +37,10 @@
       "chromeUa": false,
       "announcement": "",
       "showGeneralAnnouncement": false,
-      "fallbackUrls": [],
-      "fallbackUrl": "",
+      "fallbackUrls": [
+        "https:\/\/www.5movierulz.solutions\/"
+      ],
+      "fallbackUrl": "https:\/\/www.5movierulz.solutions\/",
       "forceFallback": false,
       "timeoutSeconds": 15
     },
