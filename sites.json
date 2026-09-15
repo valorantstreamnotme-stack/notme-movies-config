@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789493534470,
+  "updatedAt": 1789493537423,
   "sites": [
     {
       "id": "cinehd",
@@ -85,26 +85,6 @@
       "timeoutSeconds": 15
     },
     {
-      "id": "kdrama-kisskh",
-      "name": "Kdrama kisskh",
-      "url": "https:\/\/kisskh.do\/",
-      "description": "site for K dramas",
-      "enabled": true,
-      "cookies": [],
-      "playerCompatibility": false,
-      "playerProbeCompatibility": false,
-      "deepPlayerCompatibility": false,
-      "enhancedBlocking": false,
-      "regularBlockingWithEnhanced": false,
-      "chromeUa": false,
-      "announcement": "",
-      "showGeneralAnnouncement": false,
-      "fallbackUrls": [],
-      "fallbackUrl": "",
-      "forceFallback": false,
-      "timeoutSeconds": 15
-    },
-    {
       "id": "malayalam-movies",
       "name": "Malayalam Movies",
       "url": "https:\/\/www.5movierulz.solutions\/",
@@ -119,6 +99,26 @@
       "chromeUa": false,
       "announcement": "",
       "showGeneralAnnouncement": true,
+      "fallbackUrls": [],
+      "fallbackUrl": "",
+      "forceFallback": false,
+      "timeoutSeconds": 15
+    },
+    {
+      "id": "kdrama-kisskh",
+      "name": "Kdrama kisskh",
+      "url": "https:\/\/kisskh.do\/",
+      "description": "site for K dramas",
+      "enabled": true,
+      "cookies": [],
+      "playerCompatibility": false,
+      "playerProbeCompatibility": false,
+      "deepPlayerCompatibility": false,
+      "enhancedBlocking": false,
+      "regularBlockingWithEnhanced": false,
+      "chromeUa": false,
+      "announcement": "",
+      "showGeneralAnnouncement": false,
       "fallbackUrls": [],
       "fallbackUrl": "",
       "forceFallback": false,
