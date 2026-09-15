@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789493539186,
+  "updatedAt": 1789493542839,
   "sites": [
     {
       "id": "cinehd",
@@ -45,26 +45,6 @@
       "timeoutSeconds": 15
     },
     {
-      "id": "F Movies",
-      "name": "F movies",
-      "url": "https:\/\/www.f-movies.org\/home",
-      "description": "Another site for movies, tv shows",
-      "enabled": true,
-      "cookies": [],
-      "playerCompatibility": false,
-      "playerProbeCompatibility": false,
-      "deepPlayerCompatibility": false,
-      "enhancedBlocking": false,
-      "regularBlockingWithEnhanced": false,
-      "chromeUa": false,
-      "announcement": "",
-      "showGeneralAnnouncement": false,
-      "fallbackUrls": [],
-      "fallbackUrl": "",
-      "forceFallback": false,
-      "timeoutSeconds": 5
-    },
-    {
       "id": "malayalam-movies",
       "name": "Malayalam Movies",
       "url": "https:\/\/www.5movierulz.solutions\/",
@@ -83,6 +63,26 @@
       "fallbackUrl": "",
       "forceFallback": false,
       "timeoutSeconds": 15
+    },
+    {
+      "id": "F Movies",
+      "name": "F movies",
+      "url": "https:\/\/www.f-movies.org\/home",
+      "description": "Another site for movies, tv shows",
+      "enabled": true,
+      "cookies": [],
+      "playerCompatibility": false,
+      "playerProbeCompatibility": false,
+      "deepPlayerCompatibility": false,
+      "enhancedBlocking": false,
+      "regularBlockingWithEnhanced": false,
+      "chromeUa": false,
+      "announcement": "",
+      "showGeneralAnnouncement": false,
+      "fallbackUrls": [],
+      "fallbackUrl": "",
+      "forceFallback": false,
+      "timeoutSeconds": 5
     },
     {
       "id": "OGO Movies",
