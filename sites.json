@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789495826868,
+  "updatedAt": 1789496499308,
   "sites": [
     {
       "id": "cinehd",
@@ -201,6 +201,20 @@
         "socks:\/\/95.181.173.18:1080",
         "http:\/\/91.134.141.4:3128",
         "http:\/\/78.110.197.210:7080"
+      ],
+      "featureOverrides": {}
+    },
+    {
+      "installationId": "NM-A72BEC2EB4A1",
+      "label": "",
+      "enabled": true,
+      "allSites": false,
+      "siteIds": [
+        "kdrama-kisskh"
+      ],
+      "proxyServers": [
+        "http:\/\/184.75.221.82:3118",
+        "http:\/\/34.43.46.91:443"
       ],
       "featureOverrides": {}
     }
