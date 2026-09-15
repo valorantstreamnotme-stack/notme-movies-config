@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789462868588,
+  "updatedAt": 1789462897361,
   "sites": [
     {
       "id": "cinehd",
@@ -182,18 +182,6 @@
         "socks:\/\/107.150.41.226:18080",
         "http:\/\/91.134.141.4:3128",
         "socks:\/\/45.61.188.134:44499"
-      ],
-      "featureOverrides": {}
-    },
-    {
-      "installationId": "NM-EB9BA692C2AA",
-      "label": "",
-      "enabled": false,
-      "allSites": true,
-      "siteIds": [],
-      "proxyServers": [
-        "socks:\/\/5.161.115.244:1080",
-        "http:\/\/172.234.31.108:31288"
       ],
       "featureOverrides": {}
     }
