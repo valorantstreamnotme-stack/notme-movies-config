@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789493289798,
+  "updatedAt": 1789493526199,
   "sites": [
     {
       "id": "cinehd",
@@ -145,10 +145,10 @@
       "timeoutSeconds": 15
     },
     {
-      "id": "test",
-      "name": "Test",
+      "id": "malayalam-movies",
+      "name": "Malayalam Movies",
       "url": "https:\/\/www.5movierulz.solutions\/",
-      "description": "",
+      "description": "Watch malayalam movie",
       "enabled": true,
       "cookies": [],
       "playerCompatibility": false,
