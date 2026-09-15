@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789493526199,
+  "updatedAt": 1789493531415,
   "sites": [
     {
       "id": "cinehd",
@@ -125,26 +125,6 @@
       "timeoutSeconds": 15
     },
     {
-      "id": "aniwave",
-      "name": "Aniwave",
-      "url": "https:\/\/aniwaves.ru\/home",
-      "description": "Watch your Fav animes ad free",
-      "enabled": true,
-      "cookies": [],
-      "playerCompatibility": false,
-      "playerProbeCompatibility": false,
-      "deepPlayerCompatibility": false,
-      "enhancedBlocking": true,
-      "regularBlockingWithEnhanced": false,
-      "chromeUa": false,
-      "announcement": "",
-      "showGeneralAnnouncement": false,
-      "fallbackUrls": [],
-      "fallbackUrl": "",
-      "forceFallback": false,
-      "timeoutSeconds": 15
-    },
-    {
       "id": "malayalam-movies",
       "name": "Malayalam Movies",
       "url": "https:\/\/www.5movierulz.solutions\/",
@@ -159,6 +139,26 @@
       "chromeUa": false,
       "announcement": "",
       "showGeneralAnnouncement": true,
+      "fallbackUrls": [],
+      "fallbackUrl": "",
+      "forceFallback": false,
+      "timeoutSeconds": 15
+    },
+    {
+      "id": "aniwave",
+      "name": "Aniwave",
+      "url": "https:\/\/aniwaves.ru\/home",
+      "description": "Watch your Fav animes ad free",
+      "enabled": true,
+      "cookies": [],
+      "playerCompatibility": false,
+      "playerProbeCompatibility": false,
+      "deepPlayerCompatibility": false,
+      "enhancedBlocking": true,
+      "regularBlockingWithEnhanced": false,
+      "chromeUa": false,
+      "announcement": "",
+      "showGeneralAnnouncement": false,
       "fallbackUrls": [],
       "fallbackUrl": "",
       "forceFallback": false,
