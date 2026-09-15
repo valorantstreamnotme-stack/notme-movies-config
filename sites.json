@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789458160145,
+  "updatedAt": 1789461500832,
   "sites": [
     {
       "id": "cinehd",
@@ -169,10 +169,10 @@
   "filters": "",
   "announcement": "Cinehd might show server issue you can reload it couple of time it should work without any issues. Thank you for understanding!!!. If a website isnt working for you click on settings, click about and click on copy id and send it to notme 😁 I'll unblock it for you.",
   "appUpdate": {
-    "latestVersionCode": 42,
-    "latestVersionName": "1.2",
+    "latestVersionCode": 44,
+    "latestVersionName": "1.2.2",
     "minimumVersionCode": 0,
-    "updateUrl": "https:\/\/github.com\/valorantstreamnotme-stack\/notme-movies-config\/blob\/main\/app-release.apk",
-    "changelog": "Security update"
+    "updateUrl": "https:\/\/github.com\/valorantstreamnotme-stack\/NotmeMovies\/releases\/latest\/download\/NotmeMovies.apk",
+    "changelog": "New features:-\n●Added support for Android tv!!!\n●Some ui fixes\n●Fixed issues where some site where showing ads"
   }
 }
