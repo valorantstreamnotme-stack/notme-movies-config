@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789437812266,
+  "updatedAt": 1789437813938,
   "sites": [
     {
       "id": "cinehd",
@@ -83,26 +83,6 @@
       "timeoutSeconds": 15
     },
     {
-      "id": "kdrama",
-      "name": "Kdrama Dramacool",
-      "url": "https:\/\/dramacool9.com.ro\/",
-      "description": "Watch Kdramas and other collections over here",
-      "enabled": true,
-      "cookies": [],
-      "playerCompatibility": true,
-      "playerProbeCompatibility": true,
-      "deepPlayerCompatibility": true,
-      "enhancedBlocking": true,
-      "regularBlockingWithEnhanced": false,
-      "chromeUa": true,
-      "announcement": "",
-      "showGeneralAnnouncement": false,
-      "fallbackUrls": [],
-      "fallbackUrl": "",
-      "forceFallback": false,
-      "timeoutSeconds": 15
-    },
-    {
       "id": "kdrama-kisskh",
       "name": "Kdrama kisskh",
       "url": "https:\/\/kisskh.do\/",
@@ -117,6 +97,26 @@
       "chromeUa": false,
       "announcement": "",
       "showGeneralAnnouncement": true,
+      "fallbackUrls": [],
+      "fallbackUrl": "",
+      "forceFallback": false,
+      "timeoutSeconds": 15
+    },
+    {
+      "id": "kdrama",
+      "name": "Kdrama Dramacool",
+      "url": "https:\/\/dramacool9.com.ro\/",
+      "description": "Watch Kdramas and other collections over here",
+      "enabled": true,
+      "cookies": [],
+      "playerCompatibility": true,
+      "playerProbeCompatibility": true,
+      "deepPlayerCompatibility": true,
+      "enhancedBlocking": true,
+      "regularBlockingWithEnhanced": false,
+      "chromeUa": true,
+      "announcement": "",
+      "showGeneralAnnouncement": false,
       "fallbackUrls": [],
       "fallbackUrl": "",
       "forceFallback": false,
