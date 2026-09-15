@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789449932304,
+  "updatedAt": 1789462759882,
   "sites": [
     {
       "id": "cinehd",
@@ -145,20 +145,20 @@
       "timeoutSeconds": 15
     },
     {
-      "id": "google",
-      "name": "google",
+      "id": "https:\/\/open.spotify.com\/",
+      "name": "spotify",
       "url": "https:\/\/www.google.com",
       "description": "",
       "enabled": true,
       "cookies": [],
-      "playerCompatibility": false,
-      "playerProbeCompatibility": false,
-      "deepPlayerCompatibility": false,
+      "playerCompatibility": true,
+      "playerProbeCompatibility": true,
+      "deepPlayerCompatibility": true,
       "enhancedBlocking": false,
       "regularBlockingWithEnhanced": false,
-      "chromeUa": false,
+      "chromeUa": true,
       "announcement": "",
-      "showGeneralAnnouncement": true,
+      "showGeneralAnnouncement": false,
       "fallbackUrls": [],
       "fallbackUrl": "",
       "forceFallback": false,
