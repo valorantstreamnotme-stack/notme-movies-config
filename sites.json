@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789448817864,
+  "updatedAt": 1789456790163,
   "sites": [
     {
       "id": "cinehd",
@@ -12,8 +12,8 @@
       "playerCompatibility": false,
       "playerProbeCompatibility": false,
       "deepPlayerCompatibility": false,
-      "enhancedBlocking": false,
-      "regularBlockingWithEnhanced": false,
+      "enhancedBlocking": true,
+      "regularBlockingWithEnhanced": true,
       "chromeUa": false,
       "announcement": "Cinehd might show server issue you can reload it couple of time it should work without any issues. Thank you for understanding!!!",
       "showGeneralAnnouncement": false,
