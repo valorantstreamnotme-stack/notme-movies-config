@@ -1,6 +1,6 @@
 {
   "schema": 12,
-  "updatedAt": 1789435094582,
+  "updatedAt": 1789435467672,
   "sites": [
     {
       "id": "cinehd",
@@ -129,10 +129,8 @@
       "installationId": "NM-015FE8392DCA",
       "label": "",
       "enabled": true,
-      "allSites": false,
-      "siteIds": [
-        "F Movies"
-      ],
+      "allSites": true,
+      "siteIds": [],
       "proxyServers": [
         "socks:\/\/107.150.41.226:18080"
       ]
