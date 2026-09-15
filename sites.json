@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789448334104,
+  "updatedAt": 1789448340490,
   "sites": [
     {
       "id": "cinehd",
@@ -167,7 +167,7 @@
     },
     {
       "installationId": "NM-B9653377C159",
-      "label": "",
+      "label": "rahul",
       "enabled": true,
       "allSites": true,
       "siteIds": [
