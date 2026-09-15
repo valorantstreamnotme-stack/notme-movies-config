@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789462824086,
+  "updatedAt": 1789462868588,
   "sites": [
     {
       "id": "cinehd",
@@ -188,7 +188,7 @@
     {
       "installationId": "NM-EB9BA692C2AA",
       "label": "",
-      "enabled": true,
+      "enabled": false,
       "allSites": true,
       "siteIds": [],
       "proxyServers": [
