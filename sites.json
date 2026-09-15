@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789494586404,
+  "updatedAt": 1789495005130,
   "sites": [
     {
       "id": "cinehd",
@@ -183,6 +183,24 @@
         "http:\/\/91.134.141.4:3128",
         "socks:\/\/45.61.188.134:44499",
         "http:\/\/213.111.146.36:18080"
+      ],
+      "featureOverrides": {}
+    },
+    {
+      "installationId": "NM-9A6196360825",
+      "label": "amma",
+      "enabled": true,
+      "allSites": false,
+      "siteIds": [
+        "OGO Movies",
+        "kdrama-kisskh",
+        "kdrama"
+      ],
+      "proxyServers": [
+        "socks:\/\/38.49.210.79:40000",
+        "socks:\/\/95.181.173.18:1080",
+        "http:\/\/91.134.141.4:3128",
+        "http:\/\/78.110.197.210:7080"
       ],
       "featureOverrides": {}
     }
