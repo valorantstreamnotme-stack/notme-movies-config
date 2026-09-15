@@ -1,6 +1,6 @@
 {
-  "schema": 12,
-  "updatedAt": 1789435741191,
+  "schema": 13,
+  "updatedAt": 1789436011509,
   "sites": [
     {
       "id": "cinehd",
@@ -124,24 +124,7 @@
     }
   ],
   "scripts": [],
-  "proxyUsers": [
-    {
-      "installationId": "NM-015FE8392DCA",
-      "label": "",
-      "enabled": true,
-      "allSites": false,
-      "siteIds": [
-        "cinehd",
-        "F Movies",
-        "OGO Movies",
-        "kdrama",
-        "aniwave"
-      ],
-      "proxyServers": [
-        "socks:\/\/107.150.41.226:18080"
-      ]
-    }
-  ],
+  "proxyUsers": [],
   "filters": "",
   "announcement": "Cinehd might show server issue you can reload it couple of time it should work without any issues. Thank you for understanding!!!",
   "appUpdate": {
