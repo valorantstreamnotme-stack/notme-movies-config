@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789440452643,
+  "updatedAt": 1789442018993,
   "sites": [
     {
       "id": "cinehd",
@@ -136,26 +136,6 @@
       "regularBlockingWithEnhanced": false,
       "chromeUa": false,
       "announcement": "",
-      "showGeneralAnnouncement": false,
-      "fallbackUrls": [],
-      "fallbackUrl": "",
-      "forceFallback": false,
-      "timeoutSeconds": 15
-    },
-    {
-      "id": "spotify",
-      "name": "Spotify",
-      "url": "https:\/\/open.spotify.com\/",
-      "description": "",
-      "enabled": true,
-      "cookies": [],
-      "playerCompatibility": false,
-      "playerProbeCompatibility": false,
-      "deepPlayerCompatibility": false,
-      "enhancedBlocking": false,
-      "regularBlockingWithEnhanced": false,
-      "chromeUa": false,
-      "announcement": "Test spotify",
       "showGeneralAnnouncement": false,
       "fallbackUrls": [],
       "fallbackUrl": "",
