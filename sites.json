@@ -1,6 +1,6 @@
 {
   "schema": 14,
-  "updatedAt": 1789499895791,
+  "updatedAt": 1789500958610,
   "sites": [
     {
       "id": "cinehd",
@@ -240,9 +240,9 @@
       "loadWithOverviewMode": true,
       "allowSignInRedirects": true,
       "navigationAllowHosts": [
-        "account.google.com",
+        "account.google.com\/*",
         "accounts.googleusercontent.com",
-        "accounts.spotify.com",
+        "accounts.spotify.com\/*",
         "spotify.com"
       ],
       "announcement": "",
