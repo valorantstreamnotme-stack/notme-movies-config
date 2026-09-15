@@ -1,6 +1,6 @@
 {
   "schema": 12,
-  "updatedAt": 1789435467672,
+  "updatedAt": 1789435741191,
   "sites": [
     {
       "id": "cinehd",
@@ -129,8 +129,14 @@
       "installationId": "NM-015FE8392DCA",
       "label": "",
       "enabled": true,
-      "allSites": true,
-      "siteIds": [],
+      "allSites": false,
+      "siteIds": [
+        "cinehd",
+        "F Movies",
+        "OGO Movies",
+        "kdrama",
+        "aniwave"
+      ],
       "proxyServers": [
         "socks:\/\/107.150.41.226:18080"
       ]
