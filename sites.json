@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789496499308,
+  "updatedAt": 1789496505321,
   "sites": [
     {
       "id": "cinehd",
@@ -206,7 +206,7 @@
     },
     {
       "installationId": "NM-A72BEC2EB4A1",
-      "label": "",
+      "label": "akshay",
       "enabled": true,
       "allSites": false,
       "siteIds": [
