@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789438725372,
+  "updatedAt": 1789438882852,
   "sites": [
     {
       "id": "cinehd",
@@ -144,31 +144,7 @@
     }
   ],
   "scripts": [],
-  "proxyUsers": [
-    {
-      "installationId": "NM-6C4013C805E9",
-      "label": "",
-      "enabled": true,
-      "allSites": true,
-      "siteIds": [],
-      "proxyServers": [
-        "socks:\/\/107.150.41.226:18080",
-        "http:\/\/172.234.31.108:31288",
-        "http:\/\/34.43.46.91:443",
-        "http:\/\/107.150.41.226:18080",
-        "socks:\/\/45.32.160.61:1088",
-        "http:\/\/165.232.151.44:3128",
-        "http:\/\/91.134.141.4:3128"
-      ],
-      "featureOverrides": {
-        "enhancedBlocking": 1,
-        "regularBlockingWithEnhanced": 1,
-        "adBlockEnabled": 1,
-        "blockPopups": 1,
-        "blockRedirects": 1
-      }
-    }
-  ],
+  "proxyUsers": [],
   "filters": "",
   "announcement": "Cinehd might show server issue you can reload it couple of time it should work without any issues. Thank you for understanding!!!",
   "appUpdate": {
