@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789493542839,
+  "updatedAt": 1789493544944,
   "sites": [
     {
       "id": "cinehd",
@@ -17,6 +17,26 @@
       "chromeUa": false,
       "announcement": "Cinehd might show server issue you can reload it couple of time it should work without any issues. Thank you for understanding!!!",
       "showGeneralAnnouncement": false,
+      "fallbackUrls": [],
+      "fallbackUrl": "",
+      "forceFallback": false,
+      "timeoutSeconds": 15
+    },
+    {
+      "id": "malayalam-movies",
+      "name": "Malayalam Movies",
+      "url": "https:\/\/www.5movierulz.solutions\/",
+      "description": "Watch malayalam movie",
+      "enabled": true,
+      "cookies": [],
+      "playerCompatibility": false,
+      "playerProbeCompatibility": false,
+      "deepPlayerCompatibility": false,
+      "enhancedBlocking": true,
+      "regularBlockingWithEnhanced": false,
+      "chromeUa": false,
+      "announcement": "",
+      "showGeneralAnnouncement": true,
       "fallbackUrls": [],
       "fallbackUrl": "",
       "forceFallback": false,
@@ -41,26 +61,6 @@
         "https:\/\/www.5movierulz.solutions\/"
       ],
       "fallbackUrl": "https:\/\/www.5movierulz.solutions\/",
-      "forceFallback": false,
-      "timeoutSeconds": 15
-    },
-    {
-      "id": "malayalam-movies",
-      "name": "Malayalam Movies",
-      "url": "https:\/\/www.5movierulz.solutions\/",
-      "description": "Watch malayalam movie",
-      "enabled": true,
-      "cookies": [],
-      "playerCompatibility": false,
-      "playerProbeCompatibility": false,
-      "deepPlayerCompatibility": false,
-      "enhancedBlocking": true,
-      "regularBlockingWithEnhanced": false,
-      "chromeUa": false,
-      "announcement": "",
-      "showGeneralAnnouncement": true,
-      "fallbackUrls": [],
-      "fallbackUrl": "",
       "forceFallback": false,
       "timeoutSeconds": 15
     },
