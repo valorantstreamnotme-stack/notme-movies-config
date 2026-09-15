@@ -1,6 +1,6 @@
 {
   "schema": 14,
-  "updatedAt": 1789500958610,
+  "updatedAt": 1789501050367,
   "sites": [
     {
       "id": "cinehd",
@@ -243,7 +243,8 @@
         "account.google.com\/*",
         "accounts.googleusercontent.com",
         "accounts.spotify.com\/*",
-        "spotify.com"
+        "spotify.com",
+        "accounts.google.com\/o\/*"
       ],
       "announcement": "",
       "showGeneralAnnouncement": false,
