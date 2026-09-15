@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789493531415,
+  "updatedAt": 1789493534470,
   "sites": [
     {
       "id": "cinehd",
@@ -105,26 +105,6 @@
       "timeoutSeconds": 15
     },
     {
-      "id": "kdrama",
-      "name": "Kdrama Dramacool",
-      "url": "https:\/\/dramacool9.com.ro\/",
-      "description": "Another site for K dramas use which evere you like!!!",
-      "enabled": true,
-      "cookies": [],
-      "playerCompatibility": true,
-      "playerProbeCompatibility": true,
-      "deepPlayerCompatibility": true,
-      "enhancedBlocking": true,
-      "regularBlockingWithEnhanced": false,
-      "chromeUa": true,
-      "announcement": "",
-      "showGeneralAnnouncement": false,
-      "fallbackUrls": [],
-      "fallbackUrl": "",
-      "forceFallback": false,
-      "timeoutSeconds": 15
-    },
-    {
       "id": "malayalam-movies",
       "name": "Malayalam Movies",
       "url": "https:\/\/www.5movierulz.solutions\/",
@@ -139,6 +119,26 @@
       "chromeUa": false,
       "announcement": "",
       "showGeneralAnnouncement": true,
+      "fallbackUrls": [],
+      "fallbackUrl": "",
+      "forceFallback": false,
+      "timeoutSeconds": 15
+    },
+    {
+      "id": "kdrama",
+      "name": "Kdrama Dramacool",
+      "url": "https:\/\/dramacool9.com.ro\/",
+      "description": "Another site for K dramas use which evere you like!!!",
+      "enabled": true,
+      "cookies": [],
+      "playerCompatibility": true,
+      "playerProbeCompatibility": true,
+      "deepPlayerCompatibility": true,
+      "enhancedBlocking": true,
+      "regularBlockingWithEnhanced": false,
+      "chromeUa": true,
+      "announcement": "",
+      "showGeneralAnnouncement": false,
       "fallbackUrls": [],
       "fallbackUrl": "",
       "forceFallback": false,
