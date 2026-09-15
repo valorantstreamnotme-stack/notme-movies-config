@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789442912425,
+  "updatedAt": 1789443153884,
   "sites": [
     {
       "id": "cinehd",
@@ -144,7 +144,26 @@
     }
   ],
   "scripts": [],
-  "proxyUsers": [],
+  "proxyUsers": [
+    {
+      "installationId": "NM-051434BE3F37",
+      "label": "moonga",
+      "enabled": true,
+      "allSites": false,
+      "siteIds": [
+        "einthusan",
+        "kdrama-kisskh"
+      ],
+      "proxyServers": [
+        "http:\/\/172.234.31.108:31288",
+        "http:\/\/107.150.41.226:18080",
+        "socks:\/\/45.32.160.61:1088",
+        "socks:\/\/107.150.41.226:18080",
+        "http:\/\/91.134.141.4:3128"
+      ],
+      "featureOverrides": {}
+    }
+  ],
   "filters": "",
   "announcement": "Cinehd might show server issue you can reload it couple of time it should work without any issues. Thank you for understanding!!!",
   "appUpdate": {
