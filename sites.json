@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789493544944,
+  "updatedAt": 1789494166762,
   "sites": [
     {
       "id": "cinehd",
@@ -24,9 +24,9 @@
     },
     {
       "id": "malayalam-movies",
-      "name": "Malayalam Movies",
+      "name": "Indian Movies",
       "url": "https:\/\/www.5movierulz.solutions\/",
-      "description": "Watch malayalam movie",
+      "description": "Watch movies in malayalam, tamil and other indian languages",
       "enabled": true,
       "cookies": [],
       "playerCompatibility": false,
@@ -36,7 +36,7 @@
       "regularBlockingWithEnhanced": false,
       "chromeUa": false,
       "announcement": "",
-      "showGeneralAnnouncement": true,
+      "showGeneralAnnouncement": false,
       "fallbackUrls": [],
       "fallbackUrl": "",
       "forceFallback": false,
