@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789438310941,
+  "updatedAt": 1789438715358,
   "sites": [
     {
       "id": "cinehd",
@@ -172,10 +172,10 @@
   "filters": "",
   "announcement": "Cinehd might show server issue you can reload it couple of time it should work without any issues. Thank you for understanding!!!",
   "appUpdate": {
-    "latestVersionCode": 0,
-    "latestVersionName": "",
+    "latestVersionCode": 42,
+    "latestVersionName": "1.2",
     "minimumVersionCode": 0,
-    "updateUrl": "",
-    "changelog": ""
+    "updateUrl": "https:\/\/github.com\/valorantstreamnotme-stack\/notme-movies-config\/blob\/main\/app-release.apk",
+    "changelog": "Security update"
   }
 }
