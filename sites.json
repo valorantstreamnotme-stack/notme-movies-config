@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789436011509,
+  "updatedAt": 1789436927119,
   "sites": [
     {
       "id": "cinehd",
@@ -52,8 +52,8 @@
       "playerCompatibility": false,
       "playerProbeCompatibility": false,
       "deepPlayerCompatibility": false,
-      "enhancedBlocking": true,
-      "regularBlockingWithEnhanced": true,
+      "enhancedBlocking": false,
+      "regularBlockingWithEnhanced": false,
       "chromeUa": false,
       "announcement": "",
       "showGeneralAnnouncement": false,
