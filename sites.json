@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789462623953,
+  "updatedAt": 1789485191654,
   "sites": [
     {
       "id": "cinehd",
@@ -167,7 +167,7 @@
       "featureOverrides": {}
     }
   ],
-  "filters": "",
+  "filters": "block dandagondola.com",
   "announcement": "Cinehd might show server issue you can reload it couple of time it should work without any issues. Thank you for understanding!!!. If a website isnt working for you click on settings, click about and click on copy id and send it to notme 😁 I'll unblock it for you.",
   "appUpdate": {
     "latestVersionCode": 43,
