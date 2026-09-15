@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789448340490,
+  "updatedAt": 1789448817864,
   "sites": [
     {
       "id": "cinehd",
@@ -162,21 +162,6 @@
         "socks:\/\/107.150.41.226:18080",
         "http:\/\/91.134.141.4:3128",
         "socks:\/\/45.61.188.134:44499"
-      ],
-      "featureOverrides": {}
-    },
-    {
-      "installationId": "NM-B9653377C159",
-      "label": "rahul",
-      "enabled": true,
-      "allSites": true,
-      "siteIds": [
-        "einthusan"
-      ],
-      "proxyServers": [
-        "http:\/\/172.234.31.108:31288",
-        "socks:\/\/45.32.160.61:1088",
-        "http:\/\/213.111.146.36:18080"
       ],
       "featureOverrides": {}
     }
