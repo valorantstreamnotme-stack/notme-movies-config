@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789493537423,
+  "updatedAt": 1789493539186,
   "sites": [
     {
       "id": "cinehd",
@@ -65,26 +65,6 @@
       "timeoutSeconds": 5
     },
     {
-      "id": "OGO Movies",
-      "name": "OGO movies",
-      "url": "https:\/\/ogomovies1.com.pk\/",
-      "description": "watch movies, tv shows and this site have lower quality often do have theater print copies but still a hidden gem.",
-      "enabled": true,
-      "cookies": [],
-      "playerCompatibility": false,
-      "playerProbeCompatibility": false,
-      "deepPlayerCompatibility": false,
-      "enhancedBlocking": false,
-      "regularBlockingWithEnhanced": false,
-      "chromeUa": false,
-      "announcement": "",
-      "showGeneralAnnouncement": false,
-      "fallbackUrls": [],
-      "fallbackUrl": "",
-      "forceFallback": false,
-      "timeoutSeconds": 15
-    },
-    {
       "id": "malayalam-movies",
       "name": "Malayalam Movies",
       "url": "https:\/\/www.5movierulz.solutions\/",
@@ -99,6 +79,26 @@
       "chromeUa": false,
       "announcement": "",
       "showGeneralAnnouncement": true,
+      "fallbackUrls": [],
+      "fallbackUrl": "",
+      "forceFallback": false,
+      "timeoutSeconds": 15
+    },
+    {
+      "id": "OGO Movies",
+      "name": "OGO movies",
+      "url": "https:\/\/ogomovies1.com.pk\/",
+      "description": "watch movies, tv shows and this site have lower quality often do have theater print copies but still a hidden gem.",
+      "enabled": true,
+      "cookies": [],
+      "playerCompatibility": false,
+      "playerProbeCompatibility": false,
+      "deepPlayerCompatibility": false,
+      "enhancedBlocking": false,
+      "regularBlockingWithEnhanced": false,
+      "chromeUa": false,
+      "announcement": "",
+      "showGeneralAnnouncement": false,
       "fallbackUrls": [],
       "fallbackUrl": "",
       "forceFallback": false,
