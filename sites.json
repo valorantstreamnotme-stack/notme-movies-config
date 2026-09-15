@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789495750766,
+  "updatedAt": 1789495826868,
   "sites": [
     {
       "id": "cinehd",
@@ -208,10 +208,10 @@
   "filters": "block dandagondola.com\/*\nblock subduepaler.cyou\/*\nblock savedly.net\/*\nblock croshi.cyou\/*\nblock nickiepithier.qpon\/*\nblock dearthsongman.shop\/*",
   "announcement": "Cinehd might show server issue you can reload it couple of time it should work without any issues. Thank you for understanding!!!. If a website isnt working for you click on settings, click about and click on copy id and send it to notme 😁 I'll unblock it for you.",
   "appUpdate": {
-    "latestVersionCode": 0,
-    "latestVersionName": "",
+    "latestVersionCode": 43,
+    "latestVersionName": "1.2.1",
     "minimumVersionCode": 0,
-    "updateUrl": "",
+    "updateUrl": "https:\/\/www.mediafire.com\/file\/qvdnzrz9t05snsk\/Notme_Movie_1.2.1.apk\/file",
     "changelog": "New features:-\n●Added support for Android tv!!!\n●Some ui fixes\n●Fixed issues where some site where showing ads"
   }
 }
