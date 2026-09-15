@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789437819944,
+  "updatedAt": 1789437831841,
   "sites": [
     {
       "id": "cinehd",
@@ -106,7 +106,7 @@
       "id": "kdrama",
       "name": "Kdrama Dramacool",
       "url": "https:\/\/dramacool9.com.ro\/",
-      "description": "Watch Kdramas and other collections over here",
+      "description": "Another site for K dramas use which evere you like!!!",
       "enabled": true,
       "cookies": [],
       "playerCompatibility": true,
