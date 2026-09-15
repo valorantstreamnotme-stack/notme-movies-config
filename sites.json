@@ -1,6 +1,6 @@
 {
   "schema": 13,
-  "updatedAt": 1789443153884,
+  "updatedAt": 1789443296927,
   "sites": [
     {
       "id": "cinehd",
@@ -151,7 +151,6 @@
       "enabled": true,
       "allSites": false,
       "siteIds": [
-        "einthusan",
         "kdrama-kisskh"
       ],
       "proxyServers": [
